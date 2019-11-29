@@ -1,0 +1,79 @@
+.ensemble{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    
+    }
+    
+.envelope{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 250px;   
+    background: rgb(44, 43, 43);
+}
+
+
+.cercleR {    
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: red;  
+}
+.offRouge{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgba(255, 0, 0, 0.295);  
+}
+.cercleO {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: orange;
+    margin-top: 20%;
+  }
+  .offOrange{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgba(255, 166, 0, 0.267);
+    margin-top: 20%;
+}
+.cercleV {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background: green;
+    margin-top: 20%;
+}
+.offVert{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background:rgba(0, 128, 0, 0.267);
+    margin-top: 20%;
+}
+.poteau{
+    display: inline-flex;
+    display: flex;
+    flex-direction: column;   
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 150px;   
+    background: rgb(44, 43, 43);   
+}
+#bouton{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: red;  
+   
+}
+
+
